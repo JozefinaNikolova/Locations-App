@@ -1,0 +1,12 @@
+C:\Users\Jozefina Nikolova\Desktop\Locations\Locations.Data\bin\Debug\Locations.Data.dll.config
+C:\Users\Jozefina Nikolova\Desktop\Locations\Locations.Data\bin\Debug\Locations.Data.dll
+C:\Users\Jozefina Nikolova\Desktop\Locations\Locations.Data\bin\Debug\Locations.Data.pdb
+C:\Users\Jozefina Nikolova\Desktop\Locations\Locations.Data\bin\Debug\EntityFramework.dll
+C:\Users\Jozefina Nikolova\Desktop\Locations\Locations.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jozefina Nikolova\Desktop\Locations\Locations.Data\bin\Debug\Locations.Models.dll
+C:\Users\Jozefina Nikolova\Desktop\Locations\Locations.Data\bin\Debug\Locations.Models.pdb
+C:\Users\Jozefina Nikolova\Desktop\Locations\Locations.Data\bin\Debug\EntityFramework.xml
+C:\Users\Jozefina Nikolova\Desktop\Locations\Locations.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jozefina Nikolova\Desktop\Locations\Locations.Data\obj\Debug\Locations.Data.csprojResolveAssemblyReference.cache
+C:\Users\Jozefina Nikolova\Desktop\Locations\Locations.Data\obj\Debug\Locations.Data.dll
+C:\Users\Jozefina Nikolova\Desktop\Locations\Locations.Data\obj\Debug\Locations.Data.pdb

@@ -1,0 +1,23 @@
+{
+  "name": "my-alt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "alt": "^0.16.0",
+    "jquery": "^3.1.1",
+    "q": "^1.4.1",
+    "react": "^0.12.2"
+  },
+  "devDependencies": {
+    "browserify": "^8.0.3",
+    "reactify": "^0.17.1"
+  },
+  "scripts": {
+    "build": "browserify -t [reactify --es6] App.jsx > build/app.js",
+    "start": "npm run build && open 'index.html' "
+  }
+}
